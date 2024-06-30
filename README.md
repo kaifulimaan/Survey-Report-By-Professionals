@@ -1,0 +1,2 @@
+In a recent Power BI project, I created a comprehensive survey report analyzing salary and roles in data science, data analytics, and other computer science fields. The report included detailed visualizations showing the distribution of salaries across different job titles, as well as the various programming languages and tools used by professionals in these fields. By utilizing Power BI's interactive features, users could filter the data by specific roles and see trends in language usage, providing valuable insights for both job seekers and employers.
+
